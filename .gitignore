@@ -1,5 +1,6 @@
 .DS_Store
-FFmpeg-iOS/lib/
+FFmpeg-iOS/
+FFmpeg-iOS-build-script/codec/
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
