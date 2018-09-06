@@ -1,5 +1,5 @@
 .DS_Store
-FFmpeg-iOS/
+#FFmpeg-iOS/
 FFmpeg-iOS-build-script/codec/
 # Xcode
 #
